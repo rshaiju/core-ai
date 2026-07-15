@@ -1,0 +1,8 @@
+[project]
+name="llm-engineering"
+version="1.0.0"
+python-version=">3.12"
+dependencies=[
+    "python-dotenv",
+    "openai"
+]
