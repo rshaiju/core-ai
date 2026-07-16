@@ -8,5 +8,6 @@ dependencies=[
     "beautifulsoup4",
     "requests",
     "langchain",
-    "langchain-openai"
+    "langchain-openai",
+    "gradio"
 ]
