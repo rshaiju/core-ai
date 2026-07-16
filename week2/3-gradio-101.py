@@ -1,5 +1,4 @@
 from cgitb import text
-from typing import Never
 from openai import OpenAI
 from dotenv import load_dotenv
 import gradio as gr
