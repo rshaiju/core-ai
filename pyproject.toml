@@ -6,5 +6,7 @@ dependencies=[
     "python-dotenv",
     "openai",
     "beautifulsoup4",
-    "requests"
+    "requests",
+    "langchain",
+    "langchain-openai"
 ]
