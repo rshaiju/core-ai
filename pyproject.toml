@@ -9,5 +9,8 @@ dependencies=[
     "requests",
     "langchain",
     "langchain-openai",
+    "langchain-chroma",
+    "langchain-text-splitters",
+    "langchain-huggingface",
     "gradio"
 ]
